@@ -6,3 +6,4 @@ Stage 2
 git -am check
 
 Test data add
+
