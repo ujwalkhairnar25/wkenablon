@@ -14,3 +14,10 @@ Bug123() function added
 {
 // fix the issue.
 }
+
+
+modifed bug123 function
+{
+
+// modification done.
+}
