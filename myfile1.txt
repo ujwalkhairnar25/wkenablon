@@ -5,5 +5,7 @@ Stage 1
 Stage 2
 git -am check
 
-Test data add
+Test data add. Modified for difference check
+
+Differce check example
 
