@@ -9,3 +9,8 @@ Test data add. Modified for difference check
 
 Differce check example
 
+
+Bug123() function added
+{
+// fix the issue.
+}
