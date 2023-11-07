@@ -29,3 +29,5 @@ modifed bug123 function
 }
 
 My changes for stash
+
+Adding line after remote configuration
