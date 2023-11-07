@@ -33,3 +33,5 @@ My changes for stash
 Adding line after remote configuration
 
 Added line from remote 
+
+Working locally trying for conflict senario.
