@@ -1,6 +1,11 @@
 Welcome to git. Time 11 Nov 23 11:45
 
+
 this is first modification. This is change for Master. 
+
+this is first modification This is modifed for CR2
+
+// kept both the changes.
 
 Stage 1
 Stage 2
