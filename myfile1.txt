@@ -1,6 +1,6 @@
 Welcome to git. Time 11 Nov 23 11:45
 
-this is first modification
+this is first modification. This is change for Master. 
 
 Stage 1
 Stage 2
